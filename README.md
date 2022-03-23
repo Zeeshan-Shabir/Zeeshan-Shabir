@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zeeshan-Shabir
 - 👀 I’m interested in Machine Learning and Computer Vision.
-- 🌱 I’m currently working as a Research Associate in Computer Vision and ML.
+- Currently, I'm working as System Programmer in Valyrian Sys. Inc.
+- 🌱 I’ve worked as a Research Associate in Computer Vision and ML.
 - 💞️ I’m looking to collaborate on Innovative Research and Development opportunities.
 - 📫 Please feel free to email me with "Subject:From Github", at: zeeshan.shabir@nu.edu.pk; or zeeshanshabir.orcl@gmail.com
 
